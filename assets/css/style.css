@@ -73,7 +73,7 @@ header {
 
 /*--------------------------------------------Logo*/
 .logo {
-  background: url("logo.jpg");
+  background: url("../img/logo.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
