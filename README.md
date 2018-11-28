@@ -1,18 +1,17 @@
+# My Resume
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+My Name is Syed Shahin Ahmed. This is my resume site, that I have created.
+
+## Installation
+
+I have used Html 5, Bootstrap and CSS to Crete it 
 
 
-Hi there! Welcome to Cloud9 IDE!
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+## Used
 
-Happy coding!
-The Cloud9 IDE team
+I used google font and atom IDE
+
+
+## License
+Syed Shahin Ahmed
