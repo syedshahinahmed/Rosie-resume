@@ -4,7 +4,7 @@ My Name is Syed Shahin Ahmed. This is my resume site, that I have created.
 
 ## Installation
 
-I have used Html 5, Bootstrap and CSS to Crete it 
+I have used Html 5, Bootstrap and CSS to Create it 
 
 
 
